@@ -1,1 +1,1 @@
-**create your simple ios app using swiftUI**
+**Create your simple iOS app in SwiftUI.**
